@@ -10,3 +10,7 @@
 .SubtextView{
     color: #7D5C3B;
 }
+.container-fluid{
+    padding-left: 4%;
+    padding-right: 4%;
+}
