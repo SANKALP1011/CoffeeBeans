@@ -1,3 +1,6 @@
+hr{
+    border: 50% solid #7D5C3B;
+}
 #FrontView{
     padding-left: 4%;
     padding-right: 4%;
@@ -14,3 +17,34 @@
     padding-left: 4%;
     padding-right: 4%;
 }
+.btn-primary{
+ background-color: #66402B;
+ border-color: #66402B;
+}
+.CoffeePic{
+    width: 90%;
+    height: 90%;
+    box-shadow: 70%;
+    border-radius: 50%;
+    margin-right: 5px;
+}
+.container{
+    padding-top: 7%;
+}
+#MidView{
+    text-align: center;
+
+}
+.Quality{
+    color: #66402B;
+    padding-bottom: 5%;
+}
+#CoffeeView{
+    padding-top: 7%;
+}
+.CoffeeMug{
+    text-align: left;
+    width: 50%;
+    height: 50%;
+}
+
